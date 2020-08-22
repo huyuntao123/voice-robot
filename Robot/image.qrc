@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../image/jingyin.png</file>
+        <file>../../image/keyboard.png</file>
+        <file>../../image/kuaijin.png</file>
+        <file>../../image/kuaitui.png</file>
+        <file>../../image/left.png</file>
+        <file>../../image/list.png</file>
+        <file>../../image/menu.png</file>
+        <file>../../image/music.png</file>
+        <file>../../image/pause.png</file>
+        <file>../../image/play.png</file>
+        <file>../../image/repeat.png</file>
+        <file>../../image/repeat1.png</file>
+        <file>../../image/replyi.png</file>
+        <file>../../image/right.png</file>
+        <file>../../image/shipin.png</file>
+        <file>../../image/shuffle.png</file>
+        <file>../../image/sound.png</file>
+        <file>../../image/sound1.png</file>
+        <file>../../image/stop.png</file>
+        <file>../../image/voice.png</file>
+        <file>../../image/caidan.png</file>
+        <file>../../image/clock1.png</file>
+        <file>../../image/clock2.png</file>
+        <file>../../image/clock3.png</file>
+        <file>../../image/picture.png</file>
+    </qresource>
+</RCC>
